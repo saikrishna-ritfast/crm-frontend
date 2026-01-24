@@ -5,12 +5,10 @@
     margin: var(--marginOne);
     box-shadow: var(--shadowOne);
     transition: box-shadow 0.5s linear, padding 0.5s linear;
-
 }
 
 .boxOne:hover {
     box-shadow: var(--shadowFour);
     padding: var(--paddingFour);
     cursor: pointer;
-    
 }

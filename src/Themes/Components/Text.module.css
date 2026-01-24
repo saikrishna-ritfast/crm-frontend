@@ -1,0 +1,13 @@
+.textOne {
+    font-weight: 400;
+    color: var(--error);
+    line-height: 1.1;
+    margin: 0;
+}
+
+.textTwo {
+    font-weight: 400;
+    color: var(--error);
+    line-height: 1.1;
+    margin: 0;
+}

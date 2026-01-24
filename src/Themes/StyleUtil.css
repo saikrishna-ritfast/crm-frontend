@@ -1,0 +1,67 @@
+:root {
+    --black: #000000;
+    --white: #ffffff;
+    --error: #f52e2e;
+    --success: #16a34a;
+
+    /* --------------------------- font size ------------------------- */
+    --fontOne: 8px;
+    --fontTwo: 10px;
+    --fontThree: 12px;
+    --fontFour: 14px;
+    --fontFive: 16px;
+    --fontSix: 18px;
+    --fontSeven: 20px;
+    --fontEight: 22px;
+    --fontNine: 24px;
+    --fontTen: 26px;
+
+    /* --------------------------Radius---------------------------- */
+
+    --radiusOne: 6px;
+    --radiusTwo: 8px;
+    --radiusThree: 12px;
+    --radiusFour: 16px;
+    --radiusFive: 20px;
+
+    /* --------------------------Shadow---------------------------- */
+
+    --shadowOne: 0px 1px 2px 0px rgba(0, 0, 0, 0.05);
+    --shadowTwo: 0px 1px 3px 0px rgba(0, 0, 0, 0.1), 0px 1px 2px -2px rgba(0, 0, 0, 0.2);
+    --shadowThree: 0px 4px 6px -1px rgba(0, 0, 0, 0.1), 0px 2px 4px -3px rgba(0, 0, 0, 0.2);
+    --shadowFour: 0px 10px 15px -3px rgba(0, 0, 0, 0.1), 0px 4px 6px -4px rgba(0, 0, 0, 0.2);
+    --shadowFive: 0px 20px 25px -5px rgba(0, 0, 0, 0.1), 0px 10px 10px -5px rgba(0, 0, 0, 0.2);
+
+    /* --------------------------Padding---------------------------- */
+
+    --paddingOne: 10px;
+    --paddingTwo: 20px;
+    --paddingThree: 30px;
+    --paddingFour: 40px;
+    --paddingFive: 50px;
+
+    /* --------------------------Margin---------------------------- */
+
+    --marginOne: 10px;
+    --marginTwo: 20px;
+    --marginThree: 30px;
+    --marginFour: 40px;
+    --marginFive: 50px;
+
+    /* --------------------------Background color -------------- */
+
+    --bgOne: #f9fafb;
+    --bgTwo: #f1f5f9;
+    --bgThree: #e5e7eb;
+    --bgFour: #d1d5db;
+    --bgFive: #9ca3af;
+
+    /* ---  -----------------------Border width ------------------ */
+
+    --borderOne: 1px solid var(--error);
+    --borderTwo: 2px solid var(--success);
+    --borderThree: 3px solid var(--black);
+    --borderFour: 4px solid var(--white);
+    --borderFive: 5px solid var(--error);
+
+}
